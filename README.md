@@ -15,12 +15,13 @@ The following packages need to be installed for the script to run:
 | blastn | Comes with ncbi-blast+ package. Download from https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/
 | bedtools | Download from https://github.com/arq5x/bedtools2
 | samtools | Download from https://github.com/samtools/samtools
+| GNU parallel | Download from https://www.gnu.org/software/parallel/
 
 
 Alternatively, you can use the homebrew package manager for MacOS to install the dependancies.
 
 ```
-brew install blast bedtools samtools
+brew install blast bedtools samtools parallel
 ```
 
 # Basic command

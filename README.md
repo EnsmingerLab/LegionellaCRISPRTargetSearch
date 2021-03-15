@@ -41,3 +41,5 @@ Mismatch filter:	A numerical value that will be used to determine a mismatch cut
 # Additional information
 
 ### Link to bioRxiv submission that uses this script
+
+Deecker et al. Legionella pneumophila CRISPR-Cas suggests recurrent encounters with Gokushovirinae. March 9th 2021. https://doi.org/10.1101/2021.03.08.434514
